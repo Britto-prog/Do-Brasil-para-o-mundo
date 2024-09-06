@@ -1,4 +1,4 @@
-##  Biblioteca Musical Brasileira 
+##  Biblioteca Musical Brasileira - Imersão Dev com Google Gemini
 
 ** Descubra a nova sensação da música brasileira! **
 
